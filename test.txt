@@ -1,5 +1,4 @@
-the frog
+frog
 green
-brown
 toad
-One of these is not like the other.
+one of these is not like the other.
